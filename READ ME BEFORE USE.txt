@@ -1,0 +1,163 @@
+W3LL SENDER TUTOR https://youtu.be/yhjSi-rMWio
+
+                                =======[ THANKS FOR USING THIS SENDER ]=======
+IF YOU WANT RENEW YOUR SENDER TOKEN AND GET MORE 1 MONTH, U CAN PAY ONLY 50$ 2 OR 3 DAYS BEFORE ITS EXPIRE..
+YOU NEEE TO PAY 80$ IF U NEED 1 MONTH SENDER IF YOU SENDER ALREADY OUT OF DATE...THANKS!
+
+╔╦╗╔═╗╦═╗╔╦╗  ╔═╗╔═╗  ╔═╗╔═╗╦═╗╦  ╦╦╔═╗╔═╗
+ ║ ║╣ ╠╦╝║║║  ║ ║╠╣   ╚═╗║╣ ╠╦╝╚╗╔╝║║  ║╣
+ ╩ ╚═╝╩╚═╩ ╩  ╚═╝╚    ╚═╝╚═╝╩╚═ ╚╝ ╩╚═╝╚═╝
+
+1. Expire on 1 Months
+2. Gruantee Junk 2 Times
+3. Out From Member/Banned If Sell This Stuff Or Share Token Ilegal
+
+
+[
+REPORT ANY ERROR TO -->
+HTTPS://W3LLSTORE.CO
+
+support@w3llstore.co
+]
+
+
+[ I WILL NOT HELP ANY PEOPLE WHO DONT BUY THIS SENDER FROM ME IF THEY GET ERROR ON THIS SENDER !!! ]
+
+
+[
+
+// SUBJECT FOR SPAMMING
+
+// AOL :  [Reminder] Account Email (++w3ll_domain++) System Update Today, ++w3ll_date++. Case Id:++w3ll_number5++++w3ll_randstring++
+// YAHOO : [Reminder] Account Email (++w3ll_domain++) System Update Today, ++w3ll_date++. Case Id:++w3ll_number5++++w3ll_randstring++
+// OFFICE 365 : [Reminder] Account Email (++w3ll_domain++) System Update Today, ++w3ll_date++. Case Id:++w3ll_number5++++w3ll_randstring++
+// MAIL.RU : [Reminder] Account Email (++w3ll_domain++) System Update Today, ++w3ll_date++. Case Id:++w3ll_number5++++w3ll_randstring++
+// CHINESE DOMAIN : [提醒]帐户电子邮件今天完整, ++w3ll_date++. Case Id:++w3ll_number5++++w3ll_randstring++
+// WEBMAIL : [Reminder] Account Email (++w3ll_domain++) Shutdown Today, ++w3ll_date++. Case Id:++w3ll_number5++++w3ll_randstring++
+
+// FROM NAME FOR SPAMMING :
+
+// AOL : AOL Support
+// YAHOO : Yahoo Support
+// OFFICE 365 : Office Support
+// MAIL.RU : Mail Support
+// CHINESE DOMAIN : 163.com支持
+// WEBMAIL : Webmail Support
+
+// LETTER NAME FOR SPAMMING
+
+// AOL : AOL.html
+// YAHOO : YAHOO.html
+// OFFICE 365 : OFFICE.html
+// MAIL.RU : MAIL.RU.html
+// CHINESE DOMAIN : CHINESE.html
+// WEBMAIL : WEBMAIL.html
+
+NB-->
+
+Put Your Link On config.php File (line 23-17)
+
+Put Your Mailist On -->
+
+FILE > W3LL_MAILIST > W3LL_LIST.txt
+
+
+1. RIGHT CLICK ON WORKSPACE ON LEFT SIDE
+2. CHOOSE 'Open Terminal Here'
+3. PUT COMMAND 'php W3LL.php'
+
+]
+
+[
+
+--> SMTP settings <--
+
+smtpserver --> Fill in with the smtp server you're using
+smtpuser   --> Fill in with the smtp user you're using
+smtppass   --> Fill in the smtp password you use
+smtpport   --> Fill in with the smtp port you're using
+priority   --> Fill 1 for high priority, fill 0 for normal priority
+
+--> End <--
+
+--> Mail settings <--
+
+mailist  --> Fill in the name of your mailist file.
+fromname --> Fill the fromname to your liking. If you use the userandom feature, you do not need to fill in this section.
+frommail --> Fill frommail to your liking. If you use the userandom feature, you do not need to fill in this section.
+subject  --> Fill frommail to your liking. If you use the userandom feature, you do not need to fill in this section.
+msgfile  --> Fill in your letter file name.
+
+--> End <--
+
+
+--> Other <--
+
+userremoveline --> Fill 1 to use. 0 for not. If this feature is enabled, email-list already sent messages will be removed from your mailist.
+replacement    --> Fill 1 to use. 0 for not. This works to me replace your letter with a predefined format.
+ratio      --> Ratio Email Per Send.
+sleeptime      --> Duration of sending pauses per email in seconds.
+randurl        --> This is a random url feature. Serves to randomize the url with the url you have specified. How to fill it is as follows-->   randurl = array ("http-->//yoururl1.com", "http-->//yoururl2.com", "etc");
+
+--> End <--
+
+--> Subject format <--
+
+++w3ll_email++			-->  Show The Recipient's Email ( NOT RANDOM )
+++w3ll_randomip++		-->  Random IP Location
+++w3ll_randstring++		-->	 Random String
+++w3ll_country++		-->  Random Country
+++w3ll_date++			-->  Show Date Format ( NOT RANDOM )
+++w3ll_os++				-->  Random Os
+++w3ll_browser++		-->  Random Browser
+++w3ll_time++			-->  Show Date Format ( NOT RANDOM )
+++w3ll_user++			-->  Show The Recipient's User Email ( NOT RANDOM )
+++w3ll_domain++			-->  Show The Recipient's Email Domain ( NOT RANDOM )
+++w3ll_number5++		-->  Random 5 Number
+
+--> End <--
+
+--> Letter format <--
+
+++w3ll_short64++		--> Convert base64 link Into normal text
+++w3ll_email64++        --> Convert Victims Email Into Base64
+++w3ll_email++	 		-->  Show The Recipient's Email ( NOT RANDOM )
+++w3ll_secret_email++ 	-->  Show The Recipient's Email With Secret Mode ( NOT RANDOM )
+++w3ll_user++			-->  Show The Recipient's User Email ( NOT RANDOM )
+++w3ll_domain++			-->  Show The Recipient's Email Domain ( NOT RANDOM )
+++w3ll_date++			-->  Show Date Format ( NOT RANDOM )
+++w3ll_time++			-->  Show Time Format ( Not Random )
+++w3ll_short++			-->  Show Scam Link ( NOT RANDOM )
+++w3ll_subject++		-->  Random subject
+++w3ll_frommail++		-->  Random From mail
+++w3ll_fromname++		-->  Random From Name
+++w3ll_randomip++		-->  Random IP Location
+++w3ll_country++		-->  Random Country
+++w3ll_browser++		-->  Random Browser
+++w3ll_os++				-->  Random Os
+++w3ll_randstring++		-->	 Random String
+++w3ll_number1++		-->  Random 1 Number
+++w3ll_number2++		-->  Random 2 Number
+++w3ll_number3++		-->  Random 3 Number
+++w3ll_number4++		-->  Random 4 Number
+++w3ll_number5++		-->  Random 5 Number
+++w3ll_number6++		-->  Random 6 Number
+++w3ll_number7++		-->  Random 7 Number
+++w3ll_number8++		-->  Random 8 Number
+++w3ll_number9++		-->  Random 9 Number
+++w3ll_number10++		-->  Random 10 Number
+
+--> End <--
+
+]
+
+╔╦╗╔═╗╦═╗╔╦╗  ╔═╗╔═╗  ╔═╗╔═╗╦═╗╦  ╦╦╔═╗╔═╗
+ ║ ║╣ ╠╦╝║║║  ║ ║╠╣   ╚═╗║╣ ╠╦╝╚╗╔╝║║  ║╣
+ ╩ ╚═╝╩╚═╩ ╩  ╚═╝╚    ╚═╝╚═╝╩╚═ ╚╝ ╩╚═╝╚═╝
+
+1. Expire on 1 Months
+2. Gruantee Junk 2 Times
+3. Out From Member If Sell This Stuff Ilegal
+
+
+                                =======[ THANKS FOR USING THIS SENDER ]=======
